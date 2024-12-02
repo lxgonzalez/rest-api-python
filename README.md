@@ -30,6 +30,9 @@ python index.py
 ```
 #### 5. Connecting to http://localhost:5000/api/bye?name=your_name using your browser
 
+### DEMO
+![image](https://github.com/user-attachments/assets/456b689f-4fc4-4c21-95b3-b52632866457)
+
 ## Authors
 
 - [@lxgonzalez](https://github.com/lxgonzalez)
