@@ -14,16 +14,21 @@ To run the API locally, follow these steps:
 Clone this repository to your local machine:
 ```bash
 git clone https://github.com/lxgonzalez/rest-api-python
-```
-### 2. Install Dependencies
-```bash
 cd rest-api-python
+```
+### 2. Generate virtual environment
+```bash
+python -m venv venv 
+```
+### 3. Install Dependencies
+```bash
 pip install -r requirements.txt
 ```
-
+### 4. Run the Application
+```bash
 python index.py
-
-#### 3. Connecting to http://localhost:5000 using your browser
+```
+#### 5. Connecting to http://localhost:5000/api/bye?name=your_name using your browser
 
 ## Authors
 
